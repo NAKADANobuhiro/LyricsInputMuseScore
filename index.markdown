@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+lang: ja
 ---
 <script>
     //lyrics に入力されたテキストの漢字をGooラボのひらがな化API ひらがなに変換して、lyrics_kana に入れる
