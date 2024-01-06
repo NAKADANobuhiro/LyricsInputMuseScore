@@ -22,13 +22,14 @@ title: MuseScore 歌詞入力支援
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
   MuseScore で歌詞の入力のためのテキストの作成支援ツールです。
-baseurl: "LyricsInputMuseScore" # the subpath of your site, e.g. /blog
+baseurl: "/LyricsInputMuseScore" # the subpath of your site, e.g. /blog
 url: "https://nakadanobuhiro.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  NAKADANobuhiro
 
 # Build settings
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
